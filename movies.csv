@@ -1,0 +1,250 @@
+"id","title","year","director","duration","genre","rate"
+1,The Shawshank Redemption,1994,Frank Darabont,"2h 22min","{Crime,Drama}",9.3
+2,The Godfather,1972,Francis Ford Coppola,"2h 55min","{Crime,Drama}",9.2
+3,The Godfather: Part II,1974,Francis Ford Coppola,"3h 22min","{Crime,Drama}",9
+4,The Dark Knight,2008,Christopher Nolan,"2h 32min","{Action,Crime,Drama,Thriller}",9
+5,"12 Angry Men",1957,Sidney Lumet,"1h 36min","{Crime,Drama}",8.9
+6,Schindler's List,1993,Steven Spielberg,"3h 15min","{Biography,Drama,History}",8.9
+7,Pulp Fiction,1994,Quentin Tarantino,"2h 34min","{Crime,Drama}",8.9
+8,The Lord of the Rings: The Return of the King,2003,Peter Jackson,"3h 21min","{Adventure,Drama,Fantasy}",8.9
+9,"Il buono, il brutto, il cattivo",1966,Sergio Leone,"3h 2min",{Western},8.9
+10,Fight Club,1999,David Fincher,"2h 19min",{Drama},8.8
+11,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,"2h 58min","{Adventure,Drama,Fantasy}",8.8
+12,Forrest Gump,1994,Robert Zemeckis,"2h 22min","{Comedy,Drama,Romance}",8.8
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,"2h 4min","{Action,Adventure,Fantasy,Sci-Fi}",8.8
+14,Inception,2010,Christopher Nolan,"2h 28min","{Action,Adventure,Sci-Fi,Thriller}",8.8
+15,The Lord of the Rings: The Two Towers,2002,Peter Jackson,"2h 59min","{Adventure,Drama,Fantasy}",8.7
+16,One Flew Over the Cuckoo's Nest,1975,Milos Forman,"2h 13min",{Drama},8.7
+17,Goodfellas,1990,Martin Scorsese,"2h 26min","{Crime,Drama}",8.7
+18,The Matrix,1999,Lana Wachowski,"2h 16min","{Action,Sci-Fi}",8.7
+19,Shichinin no samurai,1954,Akira Kurosawa,"3h 27min","{Adventure,Drama}",8.7
+20,Star Wars,1977,George Lucas,"2h 1min","{Action,Adventure,Fantasy,Sci-Fi}",8.7
+21,Cidade de Deus,2002,Fernando Meirelles,"2h 10min","{Crime,Drama}",8.7
+22,Se7en,1995,David Fincher,"2h 7min","{Crime,Drama,Mystery,Thriller}",8.6
+23,The Silence of the Lambs,1991,Jonathan Demme,"1h 58min","{Crime,Drama,Thriller}",8.6
+24,It's a Wonderful Life,1946,Frank Capra,"2h 10min","{Drama,Family,Fantasy}",8.6
+25,La vita è bella,1997,Roberto Benigni,"1h 56min","{Comedy,Drama,War}",8.6
+26,The Usual Suspects,1995,Bryan Singer,"1h 46min","{Crime,Drama,Mystery,Thriller}",8.6
+27,Léon,2004,Luc Besson,"1h 50min","{Crime,Drama,Thriller}",8.6
+28,Saving Private Ryan,1998,Steven Spielberg,"2h 49min","{Drama,War}",8.6
+29,Sen to Chihiro no kamikakushi,2001,Hayao Miyazaki,"2h 5min","{Animation,Adventure,Family,Fantasy,Mystery}",8.6
+30,American History X,1998,Tony Kaye,"1h 59min","{Crime,Drama}",8.5
+31,C'era una volta il West,1968,Sergio Leone,"2h 44min",{Western},8.6
+32,Interstellar,2014,Christopher Nolan,"2h 49min","{Adventure,Drama,Sci-Fi}",8.6
+33,Psycho,1960,Alfred Hitchcock,"1h 49min","{Horror,Mystery,Thriller}",8.5
+34,The Green Mile,1999,Frank Darabont,"3h 9min","{Crime,Drama,Fantasy,Mystery}",8.5
+35,Casablanca,1942,Michael Curtiz,"1h 42min","{Drama,Romance,War}",8.5
+36,City Lights,1931,Charles Chaplin,"1h 27min","{Comedy,Drama,Romance}",8.6
+37,Intouchables,2011,Olivier Nakache,"1h 52min","{Biography,Comedy,Drama}",8.6
+38,Modern Times,1936,Charles Chaplin,"1h 27min","{Comedy,Drama,Family,Romance}",8.5
+39,Raiders of the Lost Ark,1981,Steven Spielberg,"1h 55min","{Action,Adventure}",8.5
+40,The Pianist,2002,Roman Polanski,"2h 30min","{Biography,Drama,Music,War}",8.5
+41,The Departed,2006,Martin Scorsese,"2h 31min","{Crime,Drama,Thriller}",8.5
+42,Rear Window,1954,Alfred Hitchcock,"1h 52min","{Mystery,Thriller}",8.5
+43,Terminator 2: Judgment Day,1991,James Cameron,"2h 17min","{Action,Sci-Fi,Thriller}",8.5
+44,Back to the Future,1985,Robert Zemeckis,"1h 56min","{Adventure,Comedy,Sci-Fi}",8.5
+45,Whiplash,2014,Damien Chazelle,"1h 47min","{Drama,Music}",8.5
+46,Gladiator,2000,Ridley Scott,"2h 35min","{Action,Adventure,Drama}",8.5
+47,The Prestige,2007,Christopher Nolan,"2h 10min","{Drama,Mystery,Sci-Fi,Thriller}",8.5
+48,The Lion King,1994,Roger Allers,"1h 28min","{Animation,Adventure,Drama,Family,Musical}",8.5
+49,Memento,2000,Christopher Nolan,"1h 53min","{Mystery,Thriller}",8.5
+50,Apocalypse Now,1979,Francis Ford Coppola,"2h 27min","{Drama,War}",8.5
+51,Alien,1979,Ridley Scott,"1h 57min","{Horror,Sci-Fi}",8.5
+52,The Great Dictator,1940,Charles Chaplin,"2h 5min","{Comedy,Drama,War}",8.5
+53,Sunset Blvd.,1950,Billy Wilder,"1h 50min","{Drama,Film-Noir}",8.5
+54,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,"1h 35min",{Comedy},8.5
+55,Nuovo Cinema Paradiso,1988,Giuseppe Tornatore,"2h 35min",{Drama},8.5
+56,Das Leben der Anderen,2006,Florian Henckel von Donnersmarck,"2h 17min","{Drama,Thriller}",8.5
+57,Hotaru no haka,1988,Isao Takahata,"1h 29min","{Animation,Drama,War}",8.5
+58,Blade Runner 2049,2017,Denis Villeneuve,"2h 44min","{Mystery,Sci-Fi,Thriller}",8.5
+59,Paths of Glory,1957,Stanley Kubrick,"1h 28min","{Drama,War}",8.4
+60,Django Unchained,2012,Quentin Tarantino,"2h 45min","{Drama,Western}",8.4
+61,The Shining,1980,Stanley Kubrick,"2h 26min","{Drama,Horror}",8.4
+62,WALL·E,2008,Andrew Stanton,"1h 38min","{Animation,Adventure,Family,Sci-Fi}",8.4
+63,American Beauty,1999,Sam Mendes,"2h 2min","{Drama,Romance}",8.4
+64,The Dark Knight Rises,2012,Christopher Nolan,"2h 44min","{Action,Thriller}",8.4
+65,Mononoke-hime,1997,Hayao Miyazaki,"2h 14min","{Animation,Adventure,Fantasy}",8.4
+66,Oldeuboi,2003,Chan-wook Park,"2h","{Action,Drama,Mystery,Thriller}",8.4
+67,Aliens,1986,James Cameron,"2h 17min","{Action,Adventure,Sci-Fi,Thriller}",8.4
+68,Witness for the Prosecution,1957,Billy Wilder,"1h 56min","{Crime,Drama,Mystery,Thriller}",8.4
+69,Once Upon a Time in America,1984,Sergio Leone,"3h 49min","{Crime,Drama}",8.4
+70,Das Boot,1981,Wolfgang Petersen,"2h 29min","{Adventure,Drama,Thriller,War}",8.4
+71,Citizen Kane,1941,Orson Welles,"1h 59min","{Drama,Mystery}",8.4
+72,Dangal,2016,Nitesh Tiwari,"2h 41min","{Action,Biography,Drama,Sport}",8.6
+73,Vertigo,1959,Alfred Hitchcock,"2h 8min","{Mystery,Romance,Thriller}",8.4
+74,North by Northwest,1959,Alfred Hitchcock,"2h 16min","{Action,Adventure,Mystery,Thriller}",8.4
+75,Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,"2h 11min","{Action,Adventure,Fantasy,Sci-Fi}",8.4
+76,Braveheart,1995,Mel Gibson,"2h 58min","{Biography,Drama,History,War}",8.4
+77,Reservoir Dogs,1992,Quentin Tarantino,"1h 39min","{Crime,Drama,Thriller}",8.3
+78,M,1931,Fritz Lang,"1h 57min","{Crime,Drama,Mystery,Thriller}",8.4
+79,Requiem for a Dream,2000,Darren Aronofsky,"1h 42min",{Drama},8.3
+80,Le fabuleux destin d'Amélie Poulain,2001,Jean-Pierre Jeunet,"2h 2min","{Comedy,Romance}",8.4
+81,Taare Zameen Par,2007,Aamir Khan,"2h 45min","{Drama,Family}",8.5
+82,A Clockwork Orange,1971,Stanley Kubrick,"2h 16min","{Crime,Drama,Sci-Fi}",8.3
+83,Kimi no na wa.,2016,Makoto Shinkai,"1h 46min","{Animation,Drama,Fantasy,Romance}",8.5
+84,Lawrence of Arabia,1962,David Lean,"3h 36min","{Adventure,Biography,Drama,History,War}",8.3
+85,Double Indemnity,1944,Billy Wilder,"1h 47min","{Crime,Drama,Film-Noir,Mystery,Thriller}",8.3
+86,Amadeus,1984,Milos Forman,"2h 40min","{Biography,Drama,History,Music}",8.3
+87,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,"1h 48min","{Drama,Romance,Sci-Fi}",8.3
+88,Taxi Driver,1976,Martin Scorsese,"1h 53min","{Crime,Drama}",8.3
+89,To Kill a Mockingbird,1962,Robert Mulligan,"2h 9min","{Crime,Drama}",8.3
+90,Dunkirk,2017,Christopher Nolan,"1h 46min","{Action,Drama,History,Thriller,War}",8.3
+91,Full Metal Jacket,1987,Stanley Kubrick,"1h 56min","{Drama,War}",8.3
+92,"2001: A Space Odyssey",1968,Stanley Kubrick,"2h 29min","{Adventure,Sci-Fi}",8.3
+93,Singin' in the Rain,1952,Stanley Donen,"1h 43min","{Comedy,Musical,Romance}",8.3
+94,Toy Story 3,2010,Lee Unkrich,"1h 43min","{Animation,Adventure,Comedy,Family,Fantasy}",8.3
+95,Toy Story,1995,John Lasseter,"1h 21min","{Animation,Adventure,Comedy,Family,Fantasy}",8.3
+96,The Sting,1973,George Roy Hill,"2h 9min","{Comedy,Crime,Drama}",8.3
+97,"3 Idiots",2009,Rajkumar Hirani,"2h 50min","{Adventure,Comedy,Drama,Romance}",8.4
+98,Ladri di biciclette,1948,Vittorio De Sica,"1h 29min",{Drama},8.3
+99,Inglourious Basterds,2009,Quentin Tarantino,"2h 33min","{Adventure,Drama,War}",8.3
+100,The Kid,1921,Charles Chaplin,"1h 8min","{Comedy,Drama,Family}",8.3
+101,Snatch,2000,Guy Ritchie,"1h 44min","{Comedy,Crime}",8.3
+102,Monty Python and the Holy Grail,1975,Terry Gilliam,"1h 31min","{Adventure,Comedy,Fantasy}",8.3
+103,Good Will Hunting,1997,Gus Van Sant,"2h 6min",{Drama},8.3
+104,Jagten,2012,Thomas Vinterberg,"1h 55min",{Drama},8.3
+105,Per qualche dollaro in più,1965,Sergio Leone,"2h 12min",{Western},8.3
+106,L.A. Confidential,1997,Curtis Hanson,"2h 18min","{Crime,Drama,Mystery,Thriller}",8.3
+107,Scarface,1983,Brian De Palma,"2h 50min","{Crime,Drama}",8.3
+108,The Apartment,1960,Billy Wilder,"2h 5min","{Comedy,Drama,Romance}",8.3
+109,Metropolis,1927,Fritz Lang,"2h 33min","{Drama,Sci-Fi}",8.3
+110,Jodaeiye Nader az Simin,2011,Asghar Farhadi,"2h 3min","{Drama,Mystery}",8.4
+111,Rashômon,1950,Akira Kurosawa,"1h 28min","{Crime,Drama,Mystery}",8.3
+112,Indiana Jones and the Last Crusade,1989,Steven Spielberg,"2h 7min","{Action,Adventure,Fantasy}",8.3
+113,All About Eve,1950,Joseph L. Mankiewicz,"2h 18min",{Drama},8.3
+114,Yôjinbô,1961,Akira Kurosawa,"1h 50min","{Action,Drama,Thriller}",8.3
+115,Babam ve Oglum,2005,Çagan Irmak,"1h 48min",{Drama},8.5
+116,Up,2009,Pete Docter,"1h 36min","{Animation,Adventure,Comedy,Family}",8.3
+117,Batman Begins,2005,Christopher Nolan,"2h 32min","{Action,Adventure,Thriller}",8.3
+118,Some Like It Hot,1959,Billy Wilder,"2h 1min","{Comedy,Romance}",8.3
+119,The Treasure of the Sierra Madre,1948,John Huston,"2h 6min","{Adventure,Drama,Western}",8.3
+120,Unforgiven,1992,Clint Eastwood,"2h 10min","{Drama,Western}",8.2
+121,Der Untergang,2004,Oliver Hirschbiegel,"2h 36min","{Biography,Drama,History,War}",8.2
+122,Die Hard,1988,John McTiernan,"2h 11min","{Action,Thriller}",8.2
+123,Raging Bull,1980,Martin Scorsese,"2h 9min","{Biography,Drama,Sport}",8.2
+124,Heat,1995,Michael Mann,"2h 50min","{Action,Crime,Drama,Thriller}",8.2
+125,The Third Man,1949,Carol Reed,"1h 44min","{Film-Noir,Mystery,Thriller}",8.3
+126,Bacheha-Ye aseman,1997,Majid Majidi,"1h 29min","{Drama,Family}",8.4
+127,The Great Escape,1963,John Sturges,"2h 52min","{Adventure,Drama,History,Thriller,War}",8.2
+128,Ikiru,1952,Akira Kurosawa,"2h 23min",{Drama},8.3
+129,Chinatown,1974,Roman Polanski,"2h 10min","{Drama,Mystery,Thriller}",8.2
+130,El laberinto del fauno,2006,Guillermo del Toro,"1h 58min","{Drama,Fantasy,War}",8.2
+131,Tonari no Totoro,1988,Hayao Miyazaki,"1h 26min","{Animation,Family,Fantasy}",8.2
+132,Incendies,2010,Denis Villeneuve,"2h 11min","{Drama,Mystery,War}",8.2
+133,Ran,1985,Akira Kurosawa,"2h 42min","{Action,Drama}",8.2
+134,The Gold Rush,1925,Charles Chaplin,"1h 35min","{Adventure,Comedy,Drama,Family}",8.2
+135,El secreto de sus ojos,2009,Juan José Campanella,"2h 9min","{Drama,Mystery,Romance,Thriller}",8.2
+136,Inside Out,1920,Pete Docter,"1h 35min","{Animation,Adventure,Comedy,Drama,Family,Fantasy}",8.2
+137,Judgment at Nuremberg,1961,Stanley Kramer,"3h 6min","{Drama,War}",8.3
+138,On the Waterfront,1954,Elia Kazan,"1h 48min","{Crime,Drama,Thriller}",8.2
+139,Hauru no ugoku shiro,2004,Hayao Miyazaki,"1h 59min","{Animation,Adventure,Family,Fantasy}",8.2
+140,The Bridge on the River Kwai,1957,David Lean,"2h 41min","{Adventure,Drama,War}",8.2
+141,Room,2015,Lenny Abrahamson,"1h 58min",{Drama},8.2
+142,Det sjunde inseglet,1957,Ingmar Bergman,"1h 36min","{Drama,Fantasy}",8.2
+143,"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie,"1h 47min","{Comedy,Crime}",8.2
+144,Mr. Smith Goes to Washington,1939,Frank Capra,"2h 9min","{Comedy,Drama}",8.2
+145,Blade Runner,1982,Ridley Scott,"1h 57min","{Sci-Fi,Thriller}",8.2
+146,Casino,1995,Martin Scorsese,"2h 58min","{Crime,Drama}",8.2
+147,A Beautiful Mind,2001,Ron Howard,"2h 15min","{Biography,Drama}",8.2
+148,The Elephant Man,1980,David Lynch,"2h 4min","{Biography,Drama}",8.2
+149,Smultronstället,1957,Ingmar Bergman,"1h 31min","{Drama,Romance}",8.2
+150,V for Vendetta,2005,James McTeigue,"2h 12min","{Action,Drama,Thriller}",8.2
+151,The Wolf of Wall Street,2013,Martin Scorsese,"3h","{Biography,Comedy,Crime,Drama}",8.2
+152,The General,1926,Clyde Bruckman,"1h 7min","{Action,Adventure,Comedy,Drama,War,Western}",8.2
+153,Warrior,2011,Gavin O'Connor,"2h 20min","{Drama,Sport}",8.2
+154,Trainspotting,1996,Danny Boyle,"1h 34min",{Drama},8.2
+155,Dial M for Murder,1954,Alfred Hitchcock,"1h 45min","{Crime,Film-Noir,Thriller}",8.2
+156,Gran Torino,2008,Clint Eastwood,"1h 56min",{Drama},8.2
+157,Sunrise: A Song of Two Humans,1927,F.W. Murnau,"1h 34min","{Drama,Romance}",8.2
+158,Gone with the Wind,1939,Victor Fleming,"3h 58min","{Drama,History,Romance,War}",8.2
+159,Andrey Rublev,1966,Andrei Tarkovsky,"3h 25min","{Biography,Drama,History}",8.3
+160,The Deer Hunter,1978,Michael Cimino,"3h 3min","{Drama,War}",8.2
+161,Fargo,1996,Joel Coen,"1h 38min","{Crime,Drama,Thriller}",8.1
+162,The Sixth Sense,1999,M. Night Shyamalan,"1h 47min","{Drama,Mystery,Thriller}",8.1
+163,The Thing,2000,John Carpenter,"1h 49min","{Horror,Mystery,Sci-Fi}",8.2
+164,No Country for Old Men,2007,Ethan Coen,"2h 2min","{Crime,Drama,Thriller}",8.1
+165,The Big Lebowski,1998,Joel Coen,"1h 57min","{Comedy,Crime}",8.2
+166,Eskiya,1996,Yavuz Turgul,"2h 8min","{Crime,Drama,Thriller}",8.4
+167,Finding Nemo,2003,Andrew Stanton,"1h 40min","{Animation,Adventure,Comedy,Family}",8.1
+168,Tôkyô monogatari,1953,Yasujirô Ozu,"2h 16min",{Drama},8.2
+169,There Will Be Blood,2007,Paul Thomas Anderson,"2h 38min","{Drama,History}",8.1
+170,Cool Hand Luke,1967,Stuart Rosenberg,"2h 6min","{Crime,Drama}",8.2
+171,Rebecca,1940,Alfred Hitchcock,"2h 10min","{Drama,Mystery,Romance,Thriller}",8.2
+172,Hacksaw Ridge,2016,Mel Gibson,"2h 19min","{Biography,Drama,History,War}",8.2
+173,La La Land,2016,Damien Chazelle,"2h 8min","{Comedy,Drama,Music,Musical,Romance}",8.2
+174,Idi i smotri,1972,Elem Klimov,"2h 22min","{Drama,War}",8.2
+175,Kill Bill: Vol. 1,2003,Quentin Tarantino,"1h 51min","{Action,Crime,Thriller}",8.1
+176,Rang De Basanti,2006,Rakeysh Omprakash Mehra,"2h 37min","{Comedy,Drama,History,Romance}",8.3
+177,How to Train Your Dragon,2010,Dean DeBlois,"1h 38min","{Animation,Adventure,Comedy,Family,Fantasy}",8.1
+178,La passion de Jeanne d'Arc,1928,Carl Theodor Dreyer,"1h 50min","{Biography,Drama,History}",8.2
+179,Mary and Max,2009,Adam Elliot,"1h 32min","{Animation,Comedy,Drama}",8.2
+180,Gone Girl,2014,David Fincher,"2h 29min","{Crime,Drama,Mystery,Thriller}",8.1
+181,Into the Wild,2007,Sean Penn,"2h 28min","{Adventure,Biography,Drama}",8.1
+182,Shutter Island,2010,Martin Scorsese,"2h 18min","{Mystery,Thriller}",8.1
+183,Logan,2017,James Mangold,"2h 17min","{Action,Drama,Sci-Fi,Thriller}",8.2
+184,It Happened One Night,1934,Frank Capra,"1h 45min","{Comedy,Romance}",8.2
+185,Life of Brian,1979,Terry Jones,"1h 34min",{Comedy},8.1
+186,Relatos salvajes,2014,Damián Szifron,"2h 2min","{Comedy,Drama,Thriller}",8.1
+187,A Wednesday,2008,Neeraj Pandey,"1h 44min","{Crime,Drama,Mystery,Thriller}",8.3
+188,Platoon,1986,Oliver Stone,"2h","{Drama,War}",8.1
+189,Hotel Rwanda,2004,Terry George,"2h 1min","{Biography,Drama,History,War}",8.1
+190,Le salaire de la peur,1953,Henri-Georges Clouzot,"2h 11min","{Adventure,Drama,Thriller}",8.2
+191,Network,1976,Sidney Lumet,"2h 1min",{Drama},8.1
+192,Rush,2013,Ron Howard,"2h 3min","{Action,Biography,Drama,History,Sport}",8.1
+193,In the Name of the Father,1993,Jim Sheridan,"2h 13min","{Biography,Drama}",8.1
+194,Stand by Me,1986,Rob Reiner,"1h 29min","{Adventure,Drama}",8.1
+195,Persona,1966,Ingmar Bergman,"1h 25min","{Drama,Thriller}",8.1
+196,Ben-Hur,1959,William Wyler,"3h 32min","{Adventure,Drama,History}",8.1
+197,The Grand Budapest Hotel,2014,Wes Anderson,"1h 39min","{Adventure,Comedy,Drama}",8.1
+198,Les quatre cents coups,1959,François Truffaut,"1h 32min","{Crime,Drama}",8.1
+199,Salinui chueok,2003,Joon-ho Bong,"2h 11min","{Crime,Drama,Mystery,Thriller}",8.1
+200,"12 Years a Slave",2013,Steve McQueen,"2h 14min","{Biography,Drama,History}",8.1
+201,Mad Max: Fury Road,2015,George Miller,"2h","{Action,Adventure,Sci-Fi,Thriller}",8.1
+202,Jurassic Park,1993,Steven Spielberg,"2h 7min","{Adventure,Sci-Fi,Thriller}",8.1
+203,Spotlight,2015,Tom McCarthy,"2h 8min","{Crime,Drama,History}",8.1
+204,Million Dollar Baby,2004,Clint Eastwood,"2h 12min","{Drama,Sport}",8.1
+205,Stalker,1979,Andrei Tarkovsky,"2h 42min","{Drama,Sci-Fi}",8.1
+206,Butch Cassidy and the Sundance Kid,1969,George Roy Hill,"1h 50min","{Biography,Crime,Drama,Western}",8.1
+207,Amores perros,2000,Alejandro González Iñárritu,"2h 34min","{Drama,Thriller}",8.1
+208,The Truman Show,1998,Peter Weir,"1h 43min","{Comedy,Drama,Sci-Fi}",8.1
+209,Hachi: A Dog's Tale,1984,Lasse Hallström,"1h 33min","{Drama,Family}",8.1
+210,The Maltese Falcon,1941,John Huston,"1h 40min","{Film-Noir,Mystery}",8.1
+211,Kaze no tani no Naushika,1984,Hayao Miyazaki,"1h 57min","{Animation,Adventure,Fantasy,Sci-Fi}",8.1
+212,The Princess Bride,1987,Rob Reiner,"1h 38min","{Adventure,Family,Fantasy,Romance}",8.1
+213,Before Sunrise,1995,Richard Linklater,"1h 41min","{Drama,Romance}",8.1
+214,Le notti di Cabiria,1957,Federico Fellini,"1h 50min",{Drama},8.2
+215,Paper Moon,1973,Peter Bogdanovich,"1h 42min","{Comedy,Crime,Drama}",8.2
+216,Prisoners,2013,Denis Villeneuve,"2h 33min","{Crime,Drama,Mystery,Thriller}",8.1
+217,Harry Potter and the Deathly Hallows: Part 2,2011,David Yates,"2h 10min","{Adventure,Drama,Fantasy,Mystery}",8.1
+218,The Grapes of Wrath,1940,John Ford,"2h 9min","{Drama,History}",8.1
+219,Rocky,1976,John G. Avildsen,"2h","{Drama,Sport}",8.1
+220,Catch Me If You Can,2002,Steven Spielberg,"2h 21min","{Biography,Crime,Drama}",8.1
+221,Touch of Evil,1958,Orson Welles,"1h 35min","{Crime,Drama,Film-Noir,Thriller}",8.1
+222,Les diaboliques,1955,Henri-Georges Clouzot,"1h 57min","{Crime,Drama,Horror,Mystery,Thriller}",8.1
+223,Gandhi,1982,Richard Attenborough,"3h 11min","{Biography,Drama,History}",8.1
+224,Donnie Darko,2001,Richard Kelly,"1h 53min","{Drama,Sci-Fi,Thriller}",8.1
+225,Munna Bhai M.B.B.S.,2003,Rajkumar Hirani,"2h 36min","{Comedy,Drama,Romance}",8.2
+226,"Monsters, Inc.",2001,Pete Docter,"1h 32min","{Animation,Adventure,Comedy,Family,Fantasy}",8.1
+227,Star Wars: Episode VII - The Force Awakens,2015,J.J. Abrams,"2h 16min","{Action,Adventure,Fantasy,Sci-Fi}",8.1
+228,Annie Hall,1977,Woody Allen,"1h 33min","{Comedy,Romance}",8.1
+229,The Terminator,1984,James Cameron,"1h 47min","{Action,Sci-Fi}",8
+230,Barry Lyndon,1975,Stanley Kubrick,"3h 4min","{Adventure,Drama,History,War}",8.1
+231,The Bourne Ultimatum,2007,Paul Greengrass,"1h 55min","{Action,Mystery,Thriller}",8.1
+232,The Wizard of Oz,1939,Victor Fleming,"1h 42min","{Adventure,Family,Fantasy,Musical}",8.1
+233,Groundhog Day,1993,Harold Ramis,"1h 41min","{Comedy,Fantasy,Romance}",8
+234,La haine,1995,Mathieu Kassovitz,"1h 38min","{Crime,Drama}",8.1
+235,"8½",1963,Federico Fellini,"2h 18min",{Drama},8.1
+236,Jaws,1975,Steven Spielberg,"2h 4min","{Adventure,Drama,Thriller}",8
+237,Twelve Monkeys,1995,Terry Gilliam,"2h 9min","{Mystery,Sci-Fi,Thriller}",8
+238,The Best Years of Our Lives,1946,William Wyler,"2h 50min","{Drama,Romance,War}",8.1
+239,Mou gaan dou,2002,Wai-Keung Lau,"1h 41min","{Crime,Drama,Mystery,Thriller}",8.1
+240,"Paris, Texas",1984,Wim Wenders,"2h 25min",{Drama},8.1
+241,The Help,2011,Tate Taylor,"2h 26min",{Drama},8.1
+242,Faa yeung nin wa,2000,Kar-Wai Wong,"1h 38min","{Drama,Romance}",8.1
+243,Sholay,1975,Ramesh Sippy,"3h 18min","{Action,Adventure,Comedy,Drama,Musical,Thriller}",8.2
+244,Beauty and the Beast,1991,Gary Trousdale,"1h 24min","{Animation,Family,Fantasy,Musical,Romance}",8
+245,La battaglia di Algeri,1966,Gillo Pontecorvo,"2h 1min","{Drama,War}",8.1
+246,Ah-ga-ssi,2016,Chan-wook Park,"2h 24min","{Crime,Drama,Mystery,Romance,Thriller}",8.1
+247,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Gore Verbinski,"2h 23min","{Action,Adventure,Fantasy}",8
+248,PK,2014,Rajkumar Hirani,"2h 33min","{Comedy,Drama,Fantasy,Sci-Fi}",8.2
+249,Dog Day Afternoon,1975,Sidney Lumet,"2h 5min","{Biography,Crime,Drama,Thriller}",8

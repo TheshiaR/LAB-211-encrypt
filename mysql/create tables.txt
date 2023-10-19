@@ -1,0 +1,7 @@
+CREATE TABLE movies ( id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, title VARCHAR(255) NOT NULL, year INT,
+director VARCHAR(255), duration VARCHAR(255), genre VARCHAR(255), rate DECIMAL (2,1) );
+
+
+
+create table users ( id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255) NOT NULL, username VARCHAR(255), email VARCHAR(255), phone INT);
+

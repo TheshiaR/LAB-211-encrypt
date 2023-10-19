@@ -1,0 +1,10 @@
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('1','Leanne Graham','Bret','sincere@april.biz','654755529');
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('2','Ervin Howell','Antonette','shanna@melissa.tv','608655509');
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('3','Clementine Bauch','Samantha','nathan@yesenia.net','673755553');
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('4','Patricia Lebsack','Karianne','julianne.OConner@kory.org','609655583');
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('5','Chelsey Dietrich','Kamren','lucio_hettinger@annie.ca','612655521');
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('6','Mrs. Dennis Schulist','Leopoldo_Corkery','karley_Ddach@jasper.info','645655563');
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('7','Kurtis Weissnat','Elwyn.Skiles','jelly.Hoeger@billy.biz','654755511');
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('8','Nicholas Runolfsdottir V','Maxime_Nienow','sherwood@rosamond.me','684755567');
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('9','Glenna Reichert','Delphine','shaim_McDermott@dana.io','696755521');
+INSERT INTO `IMDB`.`users` (`id`,`name`,`username`,`email`,`phone`) VALUES ('10','Clementina DuBuque','Moriah.Stanton','lucy.Padberg@karina.biz','643755554');
